@@ -1,12 +1,13 @@
 ---
 title: "Preprint: Differences in STI knowledge accuracy and STI/HIV testing
   among a random sample of college students: A secondary survey analysis"
+subtitle: ""
 publication_types:
   - "3"
 authors:
   - Tyler G James
   - Sadie J. Ryan
-doi: ""
+doi: https://osf.io/preprints/socarxiv/uycjs/
 publication: SocArxiv
 abstract: ""
 draft: false
