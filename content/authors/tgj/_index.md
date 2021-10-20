@@ -58,7 +58,7 @@ social:
   link: https://twitter.com/tylergjames_
 - icon: envelope
   icon_pack: fas
-  link: #contact
+  link: /contact/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
