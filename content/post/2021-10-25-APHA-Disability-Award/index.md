@@ -1,6 +1,6 @@
 ---
 title: Dr. Tyler G. James honored with the APHA Disability Section Student Award
-date: 2021-10-25
+date: 2021-10-01
 ---
 
 Dr. James is honored to receive the 2021 American Public Health Association's Disability Section Student Award. 
