@@ -1,37 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tyler G. James
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Department of Family Medicine
+  url: ""
+- name: University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Healthcare access and delivery among people with disabilities
+- Health behavior among people with disabilities
+- Applied theory and measurement in health behavior
+- Applied quantitative methods in mixed methods designs
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Health and Human Performance conc. Health Behavior
+    institution: University of Florida
+    year: 2021
+  - course: MS Health Education and Behavior
+    institution: University of Florida
+    year: 2017
+  - course: BS Psychology
+    institution: University of Florida
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
