@@ -33,7 +33,7 @@ education:
     institution: University of Florida
     year: 2017
   - course: BS Psychology
-    institution: University of Florida
+    institution: University of Florid
     year: 2016
 
 # Social/Academic Networking
