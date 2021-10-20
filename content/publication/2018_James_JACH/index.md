@@ -1,5 +1,6 @@
 ---
-title: "HIV knowledge mediates the relationship between HIV testing history and stigma in college students"
+title: "HIV knowledge mediates the relationship between HIV testing history 
+  and stigma in college students"
 subtitle: """
 publication_types:
   - "2"
