@@ -11,7 +11,7 @@ role: Postdoctoral Research Fellow
 # Organizations/Affiliations
 organizations:
 - name: Department of Family Medicine
-  url: ""
+  url: "https://medicine.umich.edu/dept/family-medicine"
 - name: University of Michigan
   url: ""
 
@@ -33,7 +33,7 @@ education:
     institution: University of Florida
     year: 2017
   - course: BS Psychology
-    institution: University of Florid
+    institution: University of Florida
     year: 2016
 
 # Social/Academic Networking
