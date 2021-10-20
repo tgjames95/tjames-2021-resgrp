@@ -16,7 +16,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on healthcare access/delivery and health behavior among people with disabilities. 
 
 interests:
 - Healthcare access and delivery among people with disabilities
@@ -41,18 +41,25 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: pubmed
+  icon_pack: ai
+  link: https://www.ncbi.nlm.nih.gov/sites/myncbi/tyler.james.1/bibliography/55284169/public/?sort=date&direction=ascending
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=UOEgsG0AAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0002-0694-4702
+- icon: osf
+  icon_pack: ai
+  link: http://osf.io/fdfkp
+- icon: twitter
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/tylergjames_
+- icon: envelope
+  icon_pack: fas
+  link: #contact
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,6 +78,4 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a health education scientist, [Certified Health Education Specialist](http://nchec.org/), and Postdoctoral Research Fellow at the University of Michigan in the Department of Family Medicine. At the University of Michigan, I am working with the [Center for Disability Health and Wellness](https://disabilityhealth.medicine.umich.edu/) and the [Michigan Mixed Methods Program](http://mixedmethods.org) to apply quantitative methods - including Latent Class Analysis and Latent Profile Analysis, time-varying effect modeling, structural equation modeling, and psychometrics -, qualitative methods, and mixed methods to (1) develop, refine, and advance health behavior theory and measurement, and (2) reduce health disparities - particularly those caused by inequities in health services utilization and delivery - among priority populations.

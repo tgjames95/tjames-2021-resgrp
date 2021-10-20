@@ -28,5 +28,3 @@ content:
 design:
   columns: '1'
 ---
-
-#textcangohere
