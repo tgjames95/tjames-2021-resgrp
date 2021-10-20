@@ -3,7 +3,7 @@ widget: hero
 widget_id: topline
 headless: true
 weight: 10
-title: Tyler G. James, Ph.D., CHES
+title: Tyler G. James, Ph.D.
 hero_media: welcome.jpg
 design:
   columns: "1"
