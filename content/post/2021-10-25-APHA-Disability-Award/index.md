@@ -1,5 +1,5 @@
 ---
-title: Dr. Tyler G. James honored with the APHA Disability Section Student Award
+title: Dr. James receives APHA Disability Section Award
 date: 2021-10-01
 ---
 
