@@ -5,7 +5,7 @@ subtitle: ""
 publication_types:
   - "3"
 authors:
-  - Tyler G James
+  - Tyler G. James
   - Sadie J. Ryan
 doi: https://osf.io/preprints/socarxiv/uycjs/
 publication: SocArxiv
